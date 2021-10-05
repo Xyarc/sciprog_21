@@ -12,11 +12,10 @@ int main(void){
 	double b = M_PI/3; 
 	double N = 11.0;
 	double Comp, Area, Diff;
-	printf("b=%f\n",b);	
 
 	Diff = (b-a)/N; //Calculate the spacing between points
 	
-	printf("Diff =%f\n",Diff);
+	// printf("Diff =%f\n",Diff); // Checking value of spacing between points
 
 	//Declaring main loop for the calculation
 	double i = a + Diff;
@@ -24,8 +23,10 @@ int main(void){
 	Area = tan(a) + tan(b);// Adds start and endpoints to the sum
 
 	for(i; i<b; i += Diff){  // computes the sum 'f(a) + 2*f(a+diff) +...+ 2*f(a+(N-1)diff) +f(b)' 
-		printf("Area = %f\n", Area);
-		printf("i = %f\n",i);		
+		
+		//printf("Area = %f\n", Area); // Test print for Area
+		//printf("i = %f\n",i); // Test print for i		
+		
 		Area += 2*tan(i); // adds twice the other points to the sum
 	}
 
