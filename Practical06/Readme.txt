@@ -16,8 +16,8 @@ To compile and run MatrixMult_main.c do the following:
 
 1) Download  Makefile MatrixMult_func.c MatrixMult_main.c and add all files to same directory
 
-2) In terminal type 'Make' to run the makefile which will compile the program
+2) In terminal type 'make' to run the makefile which will compile the program
 
-3) Once compiled type 'Clean' to remove excess files.
+3) Once compiled type 'make clean' to remove excess files.
 
 4) To run program use './<Executable name>' in the file location
