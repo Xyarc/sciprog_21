@@ -1,6 +1,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 //Include custom header file
 #include "magic_square.h"
 
@@ -8,6 +9,7 @@
 
 int getlines(char filename[MAX_FILE_NAME]);
 
+void timecomplexity(int a, int** magicsquare, int n);
 
 int main(){
 
@@ -32,7 +34,7 @@ int main(){
         magicsquare[i] = malloc(n* sizeof(int));
 
     }
-    
+ 	   
     int j;
     for(i = 0; i<n; i++){
         //printf("Enter the elements in row #%d, seperated by blanks and/or linebreaks:\n", i+1);
@@ -42,11 +44,14 @@ int main(){
         }
     }
     
+    timecomplexity(1000000, magicsquare, n);
+    
     printf("The square %s macgic.\n", isMagicSquare(magicsquare, n) ? "is" : "is NOT" );
     
     for(i=0; i<n; i++){
         free(magicsquare[i]);
     }
+
     free(magicsquare);
     
     fclose(f);
@@ -73,5 +78,22 @@ int getlines(char filename[MAX_FILE_NAME]){
     return count;
 
 
+
+}
+
+void timecomplexity(int a, int** magicsquare, int n){
+	//This function is used to test the time complexity of isMagicSquare by running the function 'a' times
+	int i;
+	clock_t t1, t2;
+	t1 = clock();
+	// printf("%ld\n", t1);
+	for(i=0; i<a; i++){
+		isMagicSquare(magicsquare, n);
+	}		
+	t2 = clock();
+	// printf("%ld\n", t2);
+	
+
+	printf("Time to run isMagicSquare [%i] times is [%ld] clocks\n", a, (t2-t1));
 
 }
