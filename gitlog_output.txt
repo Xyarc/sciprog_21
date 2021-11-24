@@ -1,0 +1,190 @@
+commit c15801a8fd3eb25e8bfb28f0592d899f231e488a
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 15:54:03 2021 +0000
+
+    Fixing typos
+
+commit 7198643bad05979258932c923fc2e1417db95732
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 15:52:05 2021 +0000
+
+    Created Readme.txt for Practical9
+    
+    Furthermore, time complexity analysis of 'isMagicSquare' was added
+
+commit 4223c523a175e6cdd9086f8b5e37c1ef9a987062
+Merge: 789c2d4 f31ba52
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Mon Nov 22 15:44:24 2021 +0000
+
+    Merge branch 'Conor_ODonnell_Brightspace' of https://github.com/Xyarc/sciprog_21 into Conor_ODonnell_Brightspace
+    
+    Merging final changes to master
+
+commit 789c2d43e86de56c298e87752166e99e255d8cb0
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Mon Nov 22 15:39:25 2021 +0000
+
+    Added Timecomplexity analysis to Practical 9
+
+commit f31ba52eb697086f44b6d9496a619b0402ff68db
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:46:50 2021 +0000
+
+    Created readme.txt for  practical 10
+
+commit 5dab5212ac22cfc6a4c823c2639ab6ab99bc6780
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:44:31 2021 +0000
+
+    Created Readme.txt for practical 8
+
+commit 028ab890b6a34a08d2123f1ebe712e59018093a0
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:38:16 2021 +0000
+
+    Created Readme.txt for Practical 7
+
+commit 29527f6f454c3535330bd64c19519fab228aec7f
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:27:41 2021 +0000
+
+    Update Readme.txt
+
+commit 85a3d9c795ca772cf3af7cc7ad4b15e3983934cc
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:14:42 2021 +0000
+
+    Updated program description
+
+commit ff77e1ded713fd1ff9a2c79c8c29870534a05f22
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:12:32 2021 +0000
+
+    Updated Description
+
+commit eb7e0a92d7f1f5b0da01861f37140f4a356914cd
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:04:19 2021 +0000
+
+    Updated description
+
+commit 50a01bc00ff768e2af61865c59005fc450f9741f
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 12:01:51 2021 +0000
+
+    Created Readme.txt for Practical06
+
+commit 4563dc455c0b2b492c7b1368a270f42695e71abe
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 11:34:15 2021 +0000
+
+    Created Readme.txt for Practical05
+
+commit b98475a300a4654c6e26124d1f7293fa894b8526
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 11:29:10 2021 +0000
+
+    Fixing typos
+
+commit d25de34852f97e31babbd82ef189256353448cb0
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 11:28:44 2021 +0000
+
+    Created Readme.txt for Practical04
+
+commit 5f9d3fab4be785e632accb4d93ad79c727b6edf0
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 11:19:20 2021 +0000
+
+    Created Readme.txt for Practical03
+
+commit 522fa4c8be2e4f8863c636b82a435dc30cdd425a
+Author: Xyarc <36306017+Xyarc@users.noreply.github.com>
+Date:   Mon Nov 22 11:16:53 2021 +0000
+
+    Created Readme.txt for Practical02
+
+commit aab574354be2fd38bcaaf84fd1c040d91476fb55
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Sat Nov 20 16:26:38 2021 +0000
+
+    Completed Tower of Hanoi code for practical10 with comments
+
+commit 9a6e15a8ee76a036c7df4735e3b2d267a61ac29d
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Sat Nov 20 16:10:24 2021 +0000
+
+    Finished code for Practical09 including comments and Magic Squares text files
+
+commit 8762d9766ab8aebfeb12193038c19ccac9115179
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Sat Nov 20 15:13:38 2021 +0000
+
+    Adding completed files for Practical02 to the repo.
+
+commit 7bd865929a4c4c96ddca5c9d1714d61f8b84fc3c
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Tue Nov 9 11:05:54 2021 +0000
+
+    Practical08 to deterime GCD using Euclidian iterative method and recursive method including comments
+
+commit 291144f57b78e3391a0b0d24900ce797ba057fab
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Fri Nov 5 16:13:59 2021 +0000
+
+    Completting dynamic memory allocation excercise for practical07 with comments
+
+commit dfb4fb97fde49b57ea066e80ea2c005c4338ebe8
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Fri Nov 5 15:33:58 2021 +0000
+
+    Completed exercise 1 of week 7 practical - including comments
+
+commit e5bd1e4a7949d506388c4927c9bbef62d1bd7997
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Tue Oct 26 14:45:49 2021 +0100
+
+    Adding files from practical05 and practical06, including adding comments to and fixing errors with practical05. Practical05 includes Hypotangent approximation and Fibonacci codes. Practical06 includes MatrxMult code aswell as two part MatrixMult code with make file for compilation.
+
+commit fec90d08b1ea435a4e9a576bc731a958324965bf
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Tue Oct 12 11:56:31 2021 +0100
+
+    Complete version of Practical04 with comments and first draft of Fibonnaci sequence for Practical05
+
+commit abe1c8caa8666ee29fed7f65943b999759561eea
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Tue Oct 5 14:15:26 2021 +0100
+
+    Testing commit
+
+commit 588724109a38640df7cc3d4582e423b0b039d34f
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Tue Oct 5 14:10:02 2021 +0100
+
+    Practical 3 Trapezodial method exercise.
+
+commit 8661c2e72f49fee268ad420f2533f1cfd6af11f7
+Author: Conor(Sciprog) <conor.o-donnell.1@ucdconnect.ie>
+Date:   Tue Oct 5 10:38:14 2021 +0100
+
+    Test commit to set up access key on sciprog as well as Practical03 files.
+
+commit bba58bbcf7731617d0b60fa57fc48a1c054e2f08
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:58:29 2021 +0100
+
+    Updated formatting errors
+
+commit 4a18ed3e12f84ae309605d2f7862ec60750dedaa
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Tue Sep 28 08:57:59 2021 +0100
+
+    Filled README.md with full instructions
+
+commit 312a9b3083fa3e5de0bb35276d886acf9d385dfb
+Author: cilwerner <59959532+cilwerner@users.noreply.github.com>
+Date:   Mon Sep 27 11:59:24 2021 +0100
+
+    Initial commit
